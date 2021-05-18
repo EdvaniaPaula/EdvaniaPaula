@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Edvania 
+- 👋 Hi, I’m Edvania  
 - 👀 I’m interested in to learn Python, JavaScript, CSS and HTML
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on my study
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate in solving problems with my knowledge.  
 
 <!---
 EdvaniaPaula/EdvaniaPaula is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
