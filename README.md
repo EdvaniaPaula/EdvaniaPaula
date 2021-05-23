@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Edvania  
-- 👀 I’m interested in to learn Python, JavaScript, CSS and HTML
+- 👀 I’m interested in to learn Python, JavaScript, CSS/HTML, MySql
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate in solving problems with my knowledge.  
 
