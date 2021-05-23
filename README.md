@@ -1,3 +1,4 @@
+### Seja bem vindo(a)!
 - 👋 Hi, I’m Edvania  
 - 👀 I’m interested in to learn Python, JavaScript, CSS/HTML, MySql
 - 🌱 I’m currently learning Python
